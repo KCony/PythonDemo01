@@ -3,4 +3,5 @@ x = 0
 print("x =", x)
 y = 10
 print("y =", y)
-
+z = 10
+print("z =", z)
