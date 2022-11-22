@@ -1,7 +1,4 @@
 print("Hello World!")
-x = 5
+x = 0
 print("x =", x)
-y = 10
-print("y =", y)
-z = x + y
-print("z = ", z)
+print("Helo Gays!")
