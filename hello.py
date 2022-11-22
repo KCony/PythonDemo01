@@ -36,3 +36,4 @@ print("y =", y)
 z = x + y
 print("z = ", z)
 
+print(x + y)  # it's GV code
