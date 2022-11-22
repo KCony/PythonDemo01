@@ -26,3 +26,13 @@ talk(greet.title() + " ^_*_^ " + " - замечательное время су�
 print("x =", x)
 y = 10
 print("y =", y)"""
+
+
+print("Hello World!")
+x = 5
+print("x =", x)
+y = 10
+print("y =", y)
+z = x + y
+print("z = ", z)
+
