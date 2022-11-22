@@ -1,24 +1,19 @@
 import datetime
-Str1 = {"time": ("доброй ночи", "доброе утро", "добрый день", "добрый вечер")}
+Str1 = {"time": ("доброй ночи", "доброе утро", "добрый день", "добрый вечер", "Полночь")}
 
 now = datetime.datetime.now()
-
+# 0 <= now.hour <= 24
+# greet: str = Str1["time"][5]
 if 0 <= now.hour < 6:
-    pass
-else:
     greet: str = Str1["time"][0]
+if now.hour == 24:
+    greet: str = Str1["time"][4]
 if 6 <= now.hour < 12:
-    pass
-else:
     greet: str = Str1["time"][1]
 if 12 <= now.hour < 16:
-    pass
-else:
     greet: str = Str1["time"][2]
-if 16 <= now.hour < 0:
+if 16 <= now.hour < 24:
     greet: str = Str1["time"][3]
-else:
-    pass
 
 
 def talk(words): print(words)
