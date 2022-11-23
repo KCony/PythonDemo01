@@ -9,4 +9,4 @@ print("a =", a)
 b = 5
 print("b =", b)
 c = a + b
-print("z =", z)
+print("с =", c)
