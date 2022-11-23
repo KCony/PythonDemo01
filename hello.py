@@ -3,7 +3,7 @@ Provides some arithmetic functions
 """
 
 print("Hello World!")
-print("Hello all!!!")
+print("Hello all!!")
 a = 4
 print("a =", a)
 b = 5
