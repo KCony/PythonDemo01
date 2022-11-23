@@ -1,12 +1,5 @@
-"""
-Provides some arithmetic functions
-"""
-
 print("Hello World!")
-print("Hello all!!")
-a = 4
-print("a =", a)
-b = 5
-print("b =", b)
-c = a + b
-print("с =", c)
+x = 0
+print("x =", x)
+y = 10
+print("y =", y)
