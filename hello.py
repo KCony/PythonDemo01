@@ -1,4 +1,8 @@
 print("Hello World!")
-x = 0
+x = 10
 print("x =", x)
-print("Helo Guys!")
+y = 5
+print("y =", y)
+j = x + y
+print("j =", j)
+print("Hello Guys!")
