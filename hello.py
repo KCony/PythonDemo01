@@ -4,5 +4,4 @@ print("x =", x)
 y = 5
 print("y =", y)
 j = x + y
-print("j =", j)
-print("Hello Guys!")
+print("j = ", j)
