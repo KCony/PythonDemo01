@@ -1,6 +1,7 @@
+"""Thia module calculates and output the sum of x and y"""
 print("Hello World!")
-x = 0
-print("x =", x)
-y = 10
-print("y =", y)
-print("x + y = ", x + y)
+X = 0
+print("x =", X)
+Y = 10
+print("y =", Y)
+print("x + y = ", X + Y)
