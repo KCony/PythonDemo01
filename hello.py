@@ -36,3 +36,5 @@ print("y =", Y)
 
 Z = 10
 print("z =", Z)
+
+print("Test PR Vladimir Ivanov")
