@@ -3,4 +3,4 @@ x = 0
 print("x =", x)
 y = 10
 print("y =", y)
-print("May there always be sunshine")
+print(y * y)
